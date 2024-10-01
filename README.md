@@ -1,4 +1,4 @@
-<h1 align = center> Telecom Customer Churn Prediction Case Study</h1>
+<h1> Telecom Customer Churn Prediction Case Study</h1>
 
 ## 🛠️ How to install and run this project locally?
 To get started with the project, follow these steps:
